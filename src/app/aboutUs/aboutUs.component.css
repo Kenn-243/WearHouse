@@ -1,0 +1,36 @@
+.content {
+  width: 52%;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.header {
+  font-size: 30px;
+}
+
+.box {
+  padding: 35px 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 0.1px solid #8c8c8c;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.desc {
+  color: #383838;
+}
+
+.contact-us {
+  padding-top: 20px;
+  font-size: 25px;
+}
+
+.phone {
+  color: #383838;
+  padding-top: 5px;
+}
+
+.email {
+  color: #383838;
+  padding-top: 5px;
+}
